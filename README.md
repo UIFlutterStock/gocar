@@ -44,3 +44,8 @@ samples, guidance on mobile development, and a full API reference.
  
  b959645a-3176-4ba3-b082-f2fb83fe5697
  AKGGXFXEDDJTNXNBVYYNITJNSVOTMNHCFWCQXIOC
+ 
+ 
+ ## ScreenShot
+
+<img src="https://stockflutter-youtube.s3.amazonaws.com/FlutterNetflixUIRedesign/IMAGE.png" height="500em" />
