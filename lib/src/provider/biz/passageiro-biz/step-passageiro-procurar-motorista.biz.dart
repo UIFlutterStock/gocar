@@ -111,7 +111,7 @@ class StepPassageiroProcurarMotorista {
     Sale sale = Sale(
         merchantOrderId: "123", // id único de sua venda
         customer: Customer( //objeto de dados do usuário
-            name: "Lucas Molessani"
+            name: ""
         ),
         payment: Payment( // objeto para de pagamento
             type: TypePayment.creditCard,
@@ -122,18 +122,18 @@ class StepPassageiroProcurarMotorista {
             // valor da compra em centavos
             installments: 1,
             // número de parcelas
-            softDescriptor: "Cielo",
+            softDescriptor: "",
             //descrição que aparecerá no extrato do usuário. Apenas 15 caracteres
             creditCard: CreditCard( //objeto de Cartão de crédito
-              cardNumber: "5502090901295579",
+              cardNumber: "",
               //número do cartão
-              holder: "LUCAS V MOLESSANI",
+              holder: "",
               //nome do usuário impresso no cartão
-              expirationDate: "05/2027",
+              expirationDate: "",
               // data de expiração
-              securityCode: "587",
+              securityCode: "",
               // código de segurança
-              brand: "Master", // bandeira
+              brand: "", // bandeira
 
             )
         )
