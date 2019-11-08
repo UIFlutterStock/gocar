@@ -1,0 +1,10 @@
+export 'account/account.page.dart';
+export 'grafico/grafico.page.dart';
+export 'historico/historico.page.dart';
+export 'intro/intro.page.dart';
+export 'meu-carro/meu-carro.page.dart';
+export 'recuperar-senha/recuperarsenha.page.dart';
+export 'relatorio/cadastro/relatorio-cadastro.page.dart';
+export 'relatorio/listagem/relatoria-listagem.page.dart';
+export 'shared/shared.dart';
+export 'start-motorista.page.dart';

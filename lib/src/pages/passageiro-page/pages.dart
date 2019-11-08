@@ -1,0 +1,10 @@
+export 'account/account.page.dart';
+export 'adicionar-local/adicionar-local.dart';
+export 'configuracao/configuracao.page.dart';
+export 'historico/historico.page.dart';
+export 'home/home.page.dart';
+export 'intro/intro.page.dart';
+export 'profile/profile.page.dart';
+export 'recuperarsenha/recuperarsenha.page.dart';
+export 'shared/shared.dart';
+export 'start-passageiro.page.dart';
