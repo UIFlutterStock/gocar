@@ -48,4 +48,4 @@ samples, guidance on mobile development, and a full API reference.
  
  ## ScreenShot
 
-<img src="https://fluttaxi.s3.amazonaws.com/image/store/full.pngg" height="500em" />
+<img src="https://fluttaxi.s3.amazonaws.com/image/store/full.png" height="500em" />
