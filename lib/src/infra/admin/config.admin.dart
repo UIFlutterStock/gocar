@@ -14,7 +14,7 @@ final Ambiente configAmbiente = Ambiente.Passageiro;
 
 final double valorKm = 5;
 
-final keyGoogle = 'AIzaSyDPCNU0apIXCD-sDt1sK1JVKkXktHgozNo';
+final keyGoogle = '';
 
 
 
